@@ -1,44 +1,81 @@
-## Maitry Rawal
+# Maitry Rawal
 
-ERP Analyst at [Magna International](https://www.magna.com/) | MS Information Systems, UMBC
+**ERP Analyst & BI Engineer -- turning shop floor data into business decisions.**
 
-I build enterprise systems that make manufacturing operations measurably better. My work sits at the intersection of ERP platforms, business intelligence, and cloud automation — turning complex shop floor data into dashboards and pipelines that people actually use.
-
-### What I've shipped
-
-- **MQTS Dashboard** — Power BI system tracking production quality across 3 lines at Magna. Moved OEE from ~70% to 84% and cut unplanned downtime by 30%.
-- **Automated reporting pipeline** — AWS Glue + Lambda + SES stack that replaced 10+ hours/week of manual SQL report generation at Tire Rack. Runs daily for 20+ stakeholders with zero intervention.
-- **Financial systems integration** — Connected GL, AP, AR, and Fixed Assets modules with CMS ERP, reducing invoice processing errors by 25%.
-- **Audit Review Application** — Java/Spring MVC app with role-based access control built at TCS. Cut manual audit review cycles by 35%.
-
-### What I work with
-
-**ERP:** Epicor, Oracle Cloud, CMS, SAP, EDI X-12, IBM iSeries (AS400)
-
-**Analytics:** Power BI, Tableau, Power Apps, SQL, Python (pandas), ETL/ELT
-
-**Cloud:** AWS — S3, Glue, Lambda, Redshift, SES, RDS, DynamoDB
-
-**Development:** Java, Spring Boot, Python, SQL/PL/SQL, JavaScript, REST APIs
-
-**Process:** Agile/Scrum, SDLC, UAT, BRD, gap analysis, process mapping, Lean Six Sigma
-
-### Featured repos
-
-| Repo | What it is |
-|------|-----------|
-| [erp-analytics-dashboard](https://github.com/maitry-rawal/erp-analytics-dashboard) | OEE tracking, downtime analysis, and production KPIs — SQL + Python ETL |
-| [aws-etl-pipeline](https://github.com/maitry-rawal/aws-etl-pipeline) | Serverless data pipeline with Glue, Lambda, S3, and SES |
-| [spring-boot-rest-api](https://github.com/maitry-rawal/spring-boot-rest-api) | Production-ready REST API with JWT auth, RBAC, Swagger, and tests |
-
-### Background
-
-MS in Information Systems from the University of Maryland, Baltimore County. BE in Computer Science from RGPV, India. Currently working toward AWS Solutions Architect Associate and SAP Analytics Cloud certifications.
-
-Before Magna, I was at Tire Rack (IT Business Analyst), Rekor Systems (data pipelines), and Tata Consultancy Services (Java development). Full career history is on [LinkedIn](https://www.linkedin.com/in/maitry-rawal/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maitry-rawal/)
+[![Portfolio](https://img.shields.io/badge/maitryrawal.com-000?style=flat-square&logo=cloudflare&logoColor=white)](https://maitryrawal.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maitryrawal15@gmail.com)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maitry-rawal/)
-[![Portfolio](https://img.shields.io/badge/maitryrawal.com-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://maitryrawal.com)
-[![Email](https://img.shields.io/badge/maitryrawal15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitryrawal15@gmail.com)
+### At a Glance
+
+| | |
+|---|---|
+| **Role** | ERP Analyst @ Magna International |
+| **Experience** | 5+ years -- ERP, BI, cloud automation |
+| **Education** | MS Information Systems, UMBC |
+| **Focus** | Manufacturing analytics, process optimization |
+
+---
+
+### Impact
+
+| Area | Result |
+|------|--------|
+| Production quality | OEE 70% to 84%, downtime -30% |
+| Report automation | 10+ hrs/week manual work eliminated |
+| Invoice processing | Error rate reduced 25% |
+| Audit workflows | Review cycles cut 35% |
+
+---
+
+### Tech
+
+**ERP**&ensp;
+![Epicor](https://img.shields.io/badge/Epicor-333?style=flat-square)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-333?style=flat-square&logo=oracle&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-333?style=flat-square&logo=sap&logoColor=white)
+![CMS](https://img.shields.io/badge/CMS-333?style=flat-square)
+
+**Analytics**&ensp;
+![Power BI](https://img.shields.io/badge/Power_BI-333?style=flat-square&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-333?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-333?style=flat-square&logo=tableau&logoColor=white)
+
+**Cloud**&ensp;
+![AWS](https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-333?style=flat-square&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/S3-333?style=flat-square&logo=amazons3&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-333?style=flat-square&logo=amazonredshift&logoColor=white)
+
+**Dev**&ensp;
+![Java](https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?style=flat-square&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-333?style=flat-square)
+
+---
+
+### Featured Repos
+
+| Repo | Description |
+|------|-------------|
+| [erp-analytics-dashboard](https://github.com/maitry-rawal/erp-analytics-dashboard) | OEE tracking & production KPIs -- SQL + Python ETL |
+| [aws-etl-pipeline](https://github.com/maitry-rawal/aws-etl-pipeline) | Serverless data pipeline -- Glue, Lambda, S3, SES |
+| [spring-boot-rest-api](https://github.com/maitry-rawal/spring-boot-rest-api) | REST API with JWT auth, RBAC, Swagger |
+
+---
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maitry-rawal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide=contribs&count_private=true)
+
+</p>
+
+---
+
+<p align="center">
+<a href="https://maitryrawal.com">maitryrawal.com</a> &middot; Open to opportunities in ERP, BI & cloud engineering
+</p>
