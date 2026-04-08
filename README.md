@@ -1,57 +1,44 @@
-# Hi, I'm Maitry Rawal
+## Maitry Rawal
 
-**ERP Analyst & IT Business Analyst** with 5+ years building enterprise systems that deliver measurable business outcomes.
+ERP Analyst at [Magna International](https://www.magna.com/) | MS Information Systems, UMBC
 
-Currently at **Magna International**, leading ERP implementations and building analytics dashboards that drive operational excellence in manufacturing.
+I build enterprise systems that make manufacturing operations measurably better. My work sits at the intersection of ERP platforms, business intelligence, and cloud automation — turning complex shop floor data into dashboards and pipelines that people actually use.
 
----
+### What I've shipped
 
-### What I Do
+- **MQTS Dashboard** — Power BI system tracking production quality across 3 lines at Magna. Moved OEE from ~70% to 84% and cut unplanned downtime by 30%.
+- **Automated reporting pipeline** — AWS Glue + Lambda + SES stack that replaced 10+ hours/week of manual SQL report generation at Tire Rack. Runs daily for 20+ stakeholders with zero intervention.
+- **Financial systems integration** — Connected GL, AP, AR, and Fixed Assets modules with CMS ERP, reducing invoice processing errors by 25%.
+- **Audit Review Application** — Java/Spring MVC app with role-based access control built at TCS. Cut manual audit review cycles by 35%.
 
-- **ERP Systems:** End-to-end implementation and optimization across Epicor, Oracle Cloud, CMS, and SAP
-- **Business Intelligence:** Power BI dashboards, KPI models, and data-driven decision frameworks
-- **Cloud & Automation:** AWS (Glue, Lambda, S3, Redshift) ETL pipelines and report automation
-- **Systems Integration:** EDI X-12, multi-system integrations, IBM iSeries (AS400)
-- **Stakeholder Management:** Requirements gathering, gap analysis, BRDs, cross-functional collaboration
+### What I work with
 
-### Impact Highlights
+**ERP:** Epicor, Oracle Cloud, CMS, SAP, EDI X-12, IBM iSeries (AS400)
 
-| Project | Result |
-|---------|--------|
-| MQTS Dashboard (Power BI) | OEE +20%, machine downtime -30% |
-| SQL Report Automation (AWS) | 10+ hours/week manual effort eliminated |
-| Financial Systems Integration | Invoice processing errors -25% |
-| ERP Process Optimization | Lead time -15%, dev cycle -20% |
+**Analytics:** Power BI, Tableau, Power Apps, SQL, Python (pandas), ETL/ELT
 
-### Tech Stack
+**Cloud:** AWS — S3, Glue, Lambda, Redshift, SES, RDS, DynamoDB
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Development:** Java, Spring Boot, Python, SQL/PL/SQL, JavaScript, REST APIs
 
-### Education & Certifications
+**Process:** Agile/Scrum, SDLC, UAT, BRD, gap analysis, process mapping, Lean Six Sigma
 
-- **MS Information Systems** — University of Maryland, Baltimore County
-- **BE Computer Science** — RGPV, India
-- AWS Solutions Architect Associate *(in progress)*
-- SAP Analytics Cloud Certified *(in progress)*
-- Databricks ML Associate *(in progress)*
+### Featured repos
 
-### Let's Connect
+| Repo | What it is |
+|------|-----------|
+| [erp-analytics-dashboard](https://github.com/maitry-rawal/erp-analytics-dashboard) | OEE tracking, downtime analysis, and production KPIs — SQL + Python ETL |
+| [aws-etl-pipeline](https://github.com/maitry-rawal/aws-etl-pipeline) | Serverless data pipeline with Glue, Lambda, S3, and SES |
+| [spring-boot-rest-api](https://github.com/maitry-rawal/spring-boot-rest-api) | Production-ready REST API with JWT auth, RBAC, Swagger, and tests |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maitry-rawal/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maitryrawal15@gmail.com)
+### Background
+
+MS in Information Systems from the University of Maryland, Baltimore County. BE in Computer Science from RGPV, India. Currently working toward AWS Solutions Architect Associate and SAP Analytics Cloud certifications.
+
+Before Magna, I was at Tire Rack (IT Business Analyst), Rekor Systems (data pipelines), and Tata Consultancy Services (Java development). Full career history is on [LinkedIn](https://www.linkedin.com/in/maitry-rawal/).
 
 ---
 
-*Open to senior roles in ERP, Business Analysis, Solutions Architecture, and Data Analytics.*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maitry-rawal/)
+[![Portfolio](https://img.shields.io/badge/maitryrawal.com-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://maitryrawal.com)
+[![Email](https://img.shields.io/badge/maitryrawal15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitryrawal15@gmail.com)
