@@ -54,3 +54,4 @@ Currently at **Magna International**, leading ERP implementations and building a
 ---
 
 *Open to senior roles in ERP, Business Analysis, Solutions Architecture, and Data Analytics.*
+
